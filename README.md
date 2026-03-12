@@ -17,7 +17,7 @@
 
 ## 🌐 在线体验
 直接点击链接即可使用，无需下载安装：
-[Everyday 个人日程表](https://tinanagold.github.io/Everyday/)
+[Everyday 个人日程表](https://tinanagold.github.io/everyday/)
 
 ## 📚 技术栈说明
 全程采用**原生前端技术栈**开发，无任何第三方框架/库，轻量无依赖，加载速度快：
